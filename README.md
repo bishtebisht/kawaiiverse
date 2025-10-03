@@ -26,3 +26,7 @@ kawaiiverse/
 └── web.js
 ├── images/
 └── README.md
+---
+
+📡 Deployment (Vercel)
+https://kawaiiverse.vercel.app/
